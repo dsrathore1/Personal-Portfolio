@@ -1,8 +1,10 @@
 <h1 align='center'> 🌙 Digpal Singh Rathore | Personal Portfolio </h1>
 
+<h1 align='center'>
+
 [![GitHub followers](https://img.shields.io/github/followers/dsrathore1?style=social)](https://github.com/dsrathore1) [![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://github.com/dsrathore1/Personal-Portfolio)
 
----
+</h1>
 
 ## 🔹 About Me
 Hi! I'm **DIGPAL SINGH RATHORE**, a passionate web developer and tech enthusiast.  
