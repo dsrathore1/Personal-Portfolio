@@ -1,10 +1,11 @@
 import React from 'react'
 import Home from './Components/Home';
+import Splash_Screen from './Components/Splash_Screen';
 
 const page = () => {
   return (
     <>
-      <Home />
+      <Splash_Screen />
     </>
   );
 }
